@@ -1,4 +1,3 @@
-
 ---
 title: "Reading 2021"
 published: true
